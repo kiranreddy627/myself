@@ -1,5 +1,5 @@
 # myself
-I'll tell about me--
+
 
 I'm Kiran Reddy
 
